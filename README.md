@@ -27,9 +27,9 @@
 
 2. Загрузите в директорию проекта и разорхивируй следующие файлы:
    ```
-   idx_hnsw.bin - https://drive.google.com/file/d/1mtKk796sTr3kccFP2NrJeEXluo0Ijqkn/view?usp=sharing
-   mcbc_model.cbm - https://drive.google.com/file/d/114V0WDH2v-UEtdTx73sHfMy6-j2riDa9/view?usp=sharing
-   mcbr_model.cbm - https://drive.google.com/file/d/1YUMEG0otYbQFxwkGwkbdRv3a5AHK_pYX/view?usp=sharing
+   idx_hnsw.bin - https://drive.google.com/file/d/1QPlsye9-2dbK_oMUQ_gHd2U2m7IeRAWH/view?usp=sharing
+   mcbc_model.cbm - https://drive.google.com/file/d/1Gm0Uf9YmPRWRii9k9h9PbAAnDAvUYd2e/view?usp=sharing
+   mcbr_model.cbm - https://drive.google.com/file/d/122CGSnPpCAzH04ZtvrpibC7njSodJtBc/view?usp=sharing
    ```
 
 ## Инструкция к запуску Docker
