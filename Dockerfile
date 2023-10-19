@@ -12,7 +12,7 @@ RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
 # Копирование кода модели и приложения в контейнер
-COPY ["main.py","base_index.pkl","idx_hnsw.bin","mcbc_model.cbm","standard_scaler.pkl","./"] .
+COPY ["main.py","base_index.pkl","idx_hnsw.bin","mcbc_model.cbm","mcbr_model.cbm","standard_scaler.pkl","./"] .
 
 # Запуск приложения с помощью Gunicorn
 ENTRYPOINT ["gunicorn", "--bind=0.0.0.0:8989", "main:app"]
