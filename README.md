@@ -57,4 +57,7 @@ pandas, numpy, seaborn, plotly, scipy, phik, faiss, hnswlib, xgboost, lightgbm, 
 
 ---
 Автор: Евтухов Павел
+
 E-mail: xswepp@tut.by
+
+https://t.me/xswepp
